@@ -1,0 +1,15 @@
+---
+layout: post
+title: My journey to becoming a Developer
+---
+So this is my first post and I am writing it to tell you a little bit about my journey to becoming a developer.  
+As this is my first post, I shall probably start by telling you why I chose to start learning development.  
+Of course, we are living in the digital age and almost all groundbreaking innovation over the past few years has been related to digital products. Often times, you will hear people saying that programming is today's most important foreign language and that everyone should be learning it - Although, this is of course true to a certain extend, this has never ben a reason for me to start learning.  
+
+I remember my father bought his first PC to work with when I was only 4 or 5 years old. He used it to draw blueprints since he was an architect and he was one of the first ones to switch from drawing with pen and paper to using these new magical machines. It was one of those bulky machines you now find in a museum and I remember how the hard drive could be switched by pulling it out in front like a drawer and just sliding in a new one. It was running on DOS and I remember how my older sister and I used to play Prince of Persia from a floppy disk.  
+As time passed and technology progressed, my father kept upgrading to newer models and about 10 years later, I used all my savings to buy my first own computer. What a day it was for me when my custom made gaming PC was ready for pickup. It had everything a teenage boy could dream of: the newest CPU and graphics chip and of course that flashy neon green lighting behind inside the tower with the glass window...  
+I spent many nights on teamspeak and skype with my friends, playing Dota against teams from all around the world, hauling my gear to friends basements where we had epic lan parties playing CS 1.6 and Warcraft 3 for 24 hours straight, eating only cold pizza and drinking cheap energy drinks.
+
+But whats the point of all this reminiscing? What I am trying to say is that I have always had a fascination computers and almost throughout my entire time in highschool, I was convinced that I want to become a software engineer. Only just before graduating I somehow decided I wouldn't want to spend my days sitting in front of a computer and so I ended up studying corporate management and economics instead.
+
+My interest for the digital world, however, led me to work as a venture development manager for digital innovation. Since I manage development processes on a daily basis, I decided it was now time to at least achive a basic understanding of web development and ideally be able to do some simple development tasks myself without having to rely on delopers everytime. And, in some way I guess, it also feels like catching up on a childhood passion.
